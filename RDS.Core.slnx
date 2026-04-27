@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RDS.Core.Domain/RDS.Core.Domain.csproj" />
+    <Project Path="src/RDS.Core.Shared/RDS.Core.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RDS.Core.Domain.Tests/RDS.Core.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
